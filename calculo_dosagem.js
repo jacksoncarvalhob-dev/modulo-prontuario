@@ -1,5 +1,5 @@
 function calcularDosagem() {
-    console.log("cálculo correto");
+    console.log("CÁLCULO ERRADO!!!");
 }
 
-calcularDosagem();
+calcularDosagemErrada();
